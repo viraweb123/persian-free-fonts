@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'BKoodakBold';
+	src: url('fonts/BKoodakBold.eot');
+	src: url('fonts/BKoodakBold.eot?#iefix') format('embedded-opentype'),
+		url('fonts/BKoodakBold.woff') format('woff'),
+		url('fonts/BKoodakBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'IRANSansWeb';
+	src: url('fonts/IRANSansWeb.eot');
+	src: url('fonts/IRANSansWeb.eot?#iefix') format('embedded-opentype'),
+		url('fonts/IRANSansWeb.woff') format('woff'),
+		url('fonts/IRANSansWeb.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: Gandom;
+  src: url('fonts/Gandom.eot');
+  src: url('fonts/Gandom.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Gandom.woff') format('woff'),
+       url('fonts/Gandom.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Gandom;
+  src: url('fonts/Samim-Bold.eot');
+  src: url('fonts/Samim-Bold.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Samim-Bold.woff') format('woff'),
+       url('fonts/Samim-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
