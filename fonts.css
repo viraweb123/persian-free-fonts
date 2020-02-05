@@ -4,17 +4,7 @@
 	src: url('fonts/BKoodakBold.eot?#iefix') format('embedded-opentype'),
 		url('fonts/BKoodakBold.woff') format('woff'),
 		url('fonts/BKoodakBold.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'IRANSansWeb';
-	src: url('fonts/IRANSansWeb.eot');
-	src: url('fonts/IRANSansWeb.eot?#iefix') format('embedded-opentype'),
-		url('fonts/IRANSansWeb.woff') format('woff'),
-		url('fonts/IRANSansWeb.ttf') format('truetype');
-	font-weight: normal;
+	font-weight: bold;
 	font-style: normal;
 }
 
@@ -28,10 +18,23 @@
 }
 
 @font-face {
-  font-family: Gandom;
-  src: url('fonts/Samim-Bold.eot');
-  src: url('fonts/Samim-Bold.eot?#iefix') format('embedded-opentype'),
-       url('fonts/Samim-Bold.woff') format('woff'),
-       url('fonts/Samim-Bold.ttf') format('truetype');
+  font-family: SamimBold;
+  src: url('fonts/SamimBold.eot');
+  src: url('fonts/SamimBold.eot?#iefix') format('embedded-opentype'),
+       url('fonts/SamimBold.woff') format('woff'),
+       url('fonts/SamimBold.ttf') format('truetype');
   font-weight: bold;
 }
+
+@font-face {
+  font-family: AFarhood;
+  src: url('fonts/AFarhood.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: AGoldan;
+  src: url('fonts/AGoldan.ttf');
+  font-weight: normal;
+}
+
